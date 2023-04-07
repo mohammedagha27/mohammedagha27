@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a  full-stack web developer with a focus on backend development using Node.js and PHP Laravel. <br>I'm adept at working with a variety of tools and technologies to bring projects to life. 
 
 
